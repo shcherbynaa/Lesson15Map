@@ -62,3 +62,4 @@ public class Animal {
 		return "Animal [type=" + type + ", name=" + name + "]";
 	}
 }
+
